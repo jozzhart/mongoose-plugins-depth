@@ -1,0 +1,36 @@
+{
+  "author": "Jozz Hart <me@jozzhart.com> (http://jozzhart.com)",
+  "name": "mongoose-plugins-depth",
+  "description": "Mongoose plugin to allow recursive population and field filtering",
+  "version": "0.0.1",
+  "main" : "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jozzhart/mongoose-plugins-depth.git"
+  },
+  "bin" : {
+  },
+  "directories" : {
+    "lib" : "./lib"
+  },
+  "keywords" : [
+    "mongoose","depth"
+  ],
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "underscore" : ">=1.4.2",
+    "mongoose" : ">=3.4.0"
+  },
+  "devDependencies": {
+  },
+  "bugs": { "url": "http://github.com/jozzhart/mongoose-plugins-depth/issues" },
+  "licenses": [
+    { "type": "MIT",
+      "url": "http://github.com/codedoctor/mongoose-plugins-tags-simple/raw/master/LICENSE"
+    }
+  ]
+}
