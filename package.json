@@ -2,7 +2,7 @@
   "author": "Jozz Hart <me@jozzhart.com> (http://jozzhart.com)",
   "name": "mongoose-plugins-depth",
   "description": "Mongoose plugin to allow recursive population and field filtering",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main" : "lib/index.js",
   "repository": {
     "type": "git",
